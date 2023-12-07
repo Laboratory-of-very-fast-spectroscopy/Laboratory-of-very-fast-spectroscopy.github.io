@@ -1,8 +1,10 @@
 ---
 layout: default
-title: The group leader
+title: The big boss
 description: Who he is
 permalink: /vit-svoboda/
 ---
 
-<img src="{{site.baseurl}}/assets/img/vit-svoboda.jpeg">
+![Vit Svoboda](/assets/images/vit-svoboda.jpeg)
+
+<img src="/assets/images/vit-svoboda.jpeg" alt="">
