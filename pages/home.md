@@ -1,17 +1,18 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
+title: Laboratory of very fast spectroscopy
+description: Welcome to our website!
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
 
-[Petridish](https://github.com/peterdesmet/petridish) is a Jekyll theme for research project websites. Or your personal blog or lab website. 👩‍🔬 It's mobile-friendly (thanks to [Bootstrap 5](https://getbootstrap.com/docs/5.1/)), free, easy to customize, and designed to work well with [GitHub Pages](https://pages.github.com/).
+Welcome, please look around!
 
-## Installation
+## News
 
-See the demo website for instructions:
+We are looking for new group members!
 
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }})
+- [Postdoctoral researcher #1]({{ '/positions/202312-postdoc1/' | relative_url }})
+- [Postdoctoral researcher #2]({{ '/positions/202312-postdoc2/' | relative_url }})
+- [PhD student #1]({{ '/positions/202312-phd1/' | relative_url }})
+- [PhD student #1]({{ '/positions/202312-phd2/' | relative_url }})

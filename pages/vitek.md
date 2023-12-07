@@ -1,5 +1,5 @@
 ---
-layout: team
+layout: default
 title: The group leader
 description: Who he is
 permalink: /vit-svoboda/
