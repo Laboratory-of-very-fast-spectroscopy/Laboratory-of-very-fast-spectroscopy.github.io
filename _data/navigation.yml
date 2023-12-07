@@ -8,6 +8,19 @@
   href: /vit-svoboda/
 - text: Team
   href: /team/
-- text: Blog
-  href: /blog/
+- text: Posts
+  href: /posts/
+- text: Open positions
+  menu: # Dropdown menu (one level deep only)
+  - text: "Postdoc positions"
+  - text: Postdoc position #1
+    href: /positions/202312_postdoc1
+  - text: Postdoc position #2
+    href: /positions/202312_postdoc2
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "PhD positions"
+  - text: PhD position #1
+    href: /positions/202312_phd1
+  - text: PhD position #2
+    href: /positions/202312_phd2
 
