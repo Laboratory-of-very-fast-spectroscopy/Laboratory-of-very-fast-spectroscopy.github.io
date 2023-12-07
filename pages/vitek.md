@@ -2,7 +2,7 @@
 layout: default
 title: Group leader
 # description: Who he is
-background: 
+background: /assets/theme/images/background.png
 permalink: /people/vit-svoboda/
 ---
 

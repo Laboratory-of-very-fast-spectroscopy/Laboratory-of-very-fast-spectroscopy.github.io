@@ -2,6 +2,6 @@
 layout: team
 title: Research group
 # description: Who we are
-background: 
+background: /assets/theme/images/background.png
 permalink: /people/
 ---

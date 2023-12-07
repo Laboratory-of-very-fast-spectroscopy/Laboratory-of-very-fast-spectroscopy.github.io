@@ -9,3 +9,6 @@ node_modules
 
 # Mac OS X
 .DS_Store
+
+assets/theme/images/background.svg
+_site/assets/theme/images/background.svg
