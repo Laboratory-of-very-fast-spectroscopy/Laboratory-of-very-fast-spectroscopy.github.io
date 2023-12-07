@@ -7,8 +7,8 @@ author: Kristýna Kantnerová                    # Used for copyright statement 
 
 # SOCIAL PROFILES
 social:
-  email: vit.svoboda@vscht.cz
-  github: github_username               # Can also be a github_username/repository
+  email: vit.svoboda@phys.chem.ethz.ch
+  github: Laboratory-of-very-fast-spectroscopy               # Can also be a github_username/repository
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
