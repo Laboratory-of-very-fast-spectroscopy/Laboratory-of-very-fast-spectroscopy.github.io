@@ -5,4 +5,4 @@ description: Who he is
 permalink: /vit-svoboda/
 ---
 
-![Vít Svoboda](/assets/theme/images/vit-svoboda.jpeg)
+<img src="{{site.baseurl}}/assets/img/vit-svoboda.jpeg">
