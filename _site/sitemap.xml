@@ -26,9 +26,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/team/</loc>
+<loc>http://localhost:4000/people/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/vit-svoboda/</loc>
+<loc>http://localhost:4000/people/vit-svoboda/</loc>
 </url>
 </urlset>

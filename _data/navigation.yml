@@ -4,11 +4,11 @@
   href: /
 - text: About
   href: /about/
+- text: People
+  href: /people/
 - text: Group leader
-  href: /vit-svoboda/
-- text: Team
-  href: /team/
-- text: Posts
+  href: /people/vit-svoboda/
+- text: News
   href: /posts/
 - text: Open positions
   menu: # Dropdown menu (one level deep only)

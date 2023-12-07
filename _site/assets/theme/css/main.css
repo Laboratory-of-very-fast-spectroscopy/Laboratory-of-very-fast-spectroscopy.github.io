@@ -3158,8 +3158,8 @@ body > main { min-height: calc(100vh - 54px); padding-bottom: 1.5rem; }
 .card .card-footer .badge:hover, .card .card-footer .badge:focus { border: 1px solid #0062cc; color: #0062cc; }
 
 .team-member { margin-bottom: 1.5rem; }
-.team-member .flex-shrink-0 { width: 100px; }
-.team-member .flex-shrink-0 img { height: 100px; width: 100px; border: 3px solid #e9ecef; border-radius: 100px; }
+.team-member .flex-shrink-0 { width: 200px; }
+.team-member .flex-shrink-0 img { height: 200px; width: 200px; border: 3px solid #e9ecef; border-radius: 200px; }
 .team-member .orcid { height: 16px; width: 16px; margin-top: -3px; }
 
 body > footer { background-color: #6c757d; border-top: 5px solid #f3f4f5; color: #f3f4f5; font-size: 0.9rem; padding: 0.75rem 0; }

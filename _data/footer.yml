@@ -4,10 +4,13 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: >
+      Laboratory of Very Fast Spectroscopy, UCT, Prague  
+
       Powered by **[Jekyll](https://jekyllrb.com)**  
 
       Hosted on **[GitHub](https://github.com)**
-  - description:
+  - description: >
+      Useful links:
     links:
     - text: Department of Physical Chemistry
       href: https://ufch.vscht.cz/
@@ -20,11 +23,14 @@ columns:
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      Funding acknowledgement:  
-      
-      **[Czech Science Foundation](https://gacr.cz/en/)**  
-
-      **[Institutional Research Support - Dagmar Procházková Fund](https://www.vscht.cz/research/dagmar-prochazkova-fund)**
+      Funding acknowledgement:
+    links:
+    - text: Czech Science Foundation
+      href: https://gacr.cz/en/
+      new_window: true
+    - text: Institutional Research Support - Dagmar Procházková Fund
+      href: https://www.vscht.cz/research/dagmar-prochazkova-fund
+      new_window: true
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
