@@ -5,17 +5,19 @@
 columns:
   - description:
     links:
-    - text: Name of project partner 1
-      href: http://example.com
+    - text: Department of Physical Chemistry
+      href: https://ufch.vscht.cz/
       new_window: true
-    - text: Prestigious and long name of project partner 2
-      href: http://example.com
+    - text: University of Chemistry and Technology, Prague
+      href: https://www.vscht.cz/?jazyk=en
+      new_window: true
+    - text: ELI Beamlines Facility
+      href: https://www.eli-beams.eu/
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is made with ❤ for open source.
-      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
-      to customize this text.
+      Funding acknowledgement: 
+      [Czech Science Foundation](https://gacr.cz/en/), [Institutional Research Support - Dagmar Procházková Fund](https://www.vscht.cz/research/dagmar-prochazkova-fund)
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
