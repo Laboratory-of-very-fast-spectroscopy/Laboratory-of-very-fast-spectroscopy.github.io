@@ -2,7 +2,7 @@
 
 - name: Vít Svoboda
   role: Group leader # Will appear next to name
-  image: assets/theme/images/vit-svoboda.jpeg # Can be external link
+  image: /assets/theme/images/pi.png # Can be external link
   description: > # Can be Markdown
     xxx.
   orcid: 0000-0003-3420-6173
@@ -11,13 +11,14 @@
   github: github_username
   email: vit.svoboda@vscht.cz
 
-- name: Turanga Leela
-  role: Captain
+- name: This could be you.
+  role: Postdoc
+  image: /assets/theme/images/postdoc.png
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    Brings cookies every Monday. 
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
+- name: Or maybe this?
+  role: PhD student
+  image: /assets/theme/images/phd.png
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Brings cookies every Friday.
