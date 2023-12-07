@@ -10,4 +10,4 @@ permalink: /about/
 
 ## Some text
 
-some text about the lab
+Some text about the lab. It will be awesome.
