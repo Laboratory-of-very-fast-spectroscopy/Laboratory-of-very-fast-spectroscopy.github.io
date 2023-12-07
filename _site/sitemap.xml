@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/blog/2023/grants/</loc>
-<lastmod>2023-12-06T18:00:00-07:00</lastmod>
+<loc>http://localhost:4000/blog/2023/fdp/</loc>
+<lastmod>2023-10-29T18:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2023/gacr-js/</loc>
+<lastmod>2023-11-06T18:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/positions/202312_phd1</loc>

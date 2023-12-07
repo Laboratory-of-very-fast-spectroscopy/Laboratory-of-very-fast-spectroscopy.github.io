@@ -3104,7 +3104,7 @@ pre.highlight { padding: 0.25rem; margin-bottom: 0.75rem; }
 
 body > main { min-height: calc(100vh - 54px); padding-bottom: 1.5rem; }
 
-.header { background-position: center; background-repeat: no-repeat; background-size: cover; border-radius: 0; color: #fff; margin-bottom: 2rem; padding: 2rem 1rem; position: relative; text-align: center; }
+.header { background-position: center; background-repeat: no-repeat; background-size: 88%; border-radius: 0; color: #fff; margin-bottom: 2rem; padding: 2rem 1rem; position: relative; text-align: center; }
 @media (min-width: 768px) { .header { padding: 4rem 2rem; } }
 .header.bg-no-image { background-color: #007bff; }
 .header.bg-image:before { background-image: linear-gradient(rgba(33, 37, 41, 0.1), rgba(33, 37, 41, 0.9)); content: ""; left: 0; height: 100%; position: absolute; top: 0; width: 100%; }
