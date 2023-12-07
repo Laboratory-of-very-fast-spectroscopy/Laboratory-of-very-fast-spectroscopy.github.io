@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: News
-description: News & blog posts
-permalink: /blog/
+description: News posts
+permalink: /posts/
 ---
 
 <!-- Content here would shop up above your list of posts -->

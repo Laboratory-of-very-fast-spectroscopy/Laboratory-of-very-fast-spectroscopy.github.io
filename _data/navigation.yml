@@ -9,7 +9,7 @@
 - text: Team
   href: /team/
 - text: Posts
-  href: /blog/
+  href: /posts/
 - text: Open positions
   menu: # Dropdown menu (one level deep only)
   - text: "Postdoc positions"
