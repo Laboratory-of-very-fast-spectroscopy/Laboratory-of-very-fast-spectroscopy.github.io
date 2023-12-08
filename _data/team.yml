@@ -4,7 +4,7 @@
   role: Group leader # Will appear next to name
   image: /assets/theme/images/pi.png # Can be external link
   description: > # Can be Markdown
-    Finds money so that team members can bring cookies.
+    Finds money so team members can bring cookies.
   researchgate: Vit-Svoboda
   googlescholar: X8pzua4AAAAJ
   github: Laboratory-of-very-fast-spectroscopy
