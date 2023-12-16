@@ -12,8 +12,8 @@ Ing. Vít Svoboda, Dr. sc. ETH Zürich
 
 ## Bio
 
-<!-- - **2024-present** - Assistant professor, University of Chemistry and Technology, Prague, Czech Republic -->
-**2022–2023** – Postdoctoral researcher, JILA, Boulder, Colorado, USA  
+**2024–present** – Assistant professor, University of Chemistry and Technology, Prague, Czech Republic  
+**2022–2024** – Postdoctoral researcher, JILA, Boulder, Colorado, USA  
 **2022 (2 months)** – Research internship, Max-Born Institute, Berlin, Germany  
 **2019–2022** – Postdoctoral researcher, ETH Zürich, Switzerland  
 **2015–2019** – Doctoral student, ETH Zürich, Switzerland  
