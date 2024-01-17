@@ -4,7 +4,9 @@
 # Columns (the more you add, the narrower they will be)
 columns:
   - description: >
-      Laboratory of Very Fast Spectroscopy, UCT, Prague  
+      Laboratory of Very Fast Spectroscopy
+
+      UCT Prague  
 
       Powered by **[Jekyll](https://jekyllrb.com)**  
 
