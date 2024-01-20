@@ -19,8 +19,6 @@
     href: /positions/202312_postdoc2
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
   - text: "PhD positions"
-  - text: PhD position 1
-    href: /positions/202312_phd1
-  - text: PhD position 2
-    href: /positions/202312_phd2
+  - text: PhD position
+    href: /positions/202312_phd
 

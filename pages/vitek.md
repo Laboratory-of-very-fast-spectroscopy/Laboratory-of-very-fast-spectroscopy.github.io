@@ -6,7 +6,7 @@ background: /assets/theme/images/background.png
 permalink: /people/vit-svoboda/
 ---
 
-![Vit Svoboda](/assets/theme/images/vit-svoboda.png){:.rounded .float-start} 
+![Vit Svoboda](/assets/theme/images/vit-svoboda.png){:.rounded .float-start}
 
 Ing. Vít Svoboda, Dr. sc. ETH Zürich
 
@@ -29,7 +29,7 @@ From 2010, I studied at the University of Chemistry and Technology, Prague, firs
 
 The same year I moved to Switzerland to ETH Zürich. There, I worked in the Ultrafast Spectroscopy and Attosecond Science group on my doctorate, the topic of which was time-resolved phenomena in molecules using "low-order harmonic generation".
 
-After the first postdoctoral project at ETH Zürich and a research internship at the Max-Born Institute in Berlin, I decided to taste science "across the pond". From 2022, I was working as a postdoctoral researcher at the JILA Institute in Colorado, where I focused on attosecond processes in plasmonic nanoparticles and chiral structures. At the beginning of 2024, I am returning to the Czech Republic, specifically to the Institute of Physical Chemistry of UCT Prague, where I will establish a new scientific group devoted to the study of the dynamics of chiral molecules.
+After the first postdoctoral project at ETH Zürich and a research internship at the Max-Born Institute in Berlin, I decided to taste science "across the pond". From 2022, I was working as a postdoctoral researcher at the JILA Institute in Colorado, where I focused on attosecond processes in plasmonic nanoparticles and chiral structures. At the beginning of 2024, I am returning to the Czech Republic, specifically to the Department of Physical Chemistry of UCT Prague, where I will establish a new scientific group devoted to the study of the dynamics of chiral molecules.
 
 ## Publications
 
